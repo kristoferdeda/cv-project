@@ -103,3 +103,6 @@ python camera_handdetect.py
 **Yana Sivakova**, 
 **Kirill Kheyfets**,
 **Kristofer Deda**  
+
+### Presentation Slides
+https://docs.google.com/presentation/d/1ypAEwbm4o7wb5NcylEF9gpf7H1UDT7nyVUiPC77fciM/edit?slide=id.g35ed75ccf_0134#slide=id.g35ed75ccf_0134
